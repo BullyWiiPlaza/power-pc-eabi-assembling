@@ -1,0 +1,2 @@
+## What is in here?
+This repository contains the `PowerPC` binaries for `Windows` and `Linux`. Furthermore, there are scripts for both platforms to assemble the example assembly source file `asm.as` to binary code and print it out in hexadecimal format on the command line.
